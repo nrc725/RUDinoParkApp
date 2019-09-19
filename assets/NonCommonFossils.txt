@@ -1,0 +1,22 @@
+Non Common Fossils
+==================
+
+fossilNames[0]= "Concretions";
+fossilNames[1]= "Iron";
+fossilNames[2]= "Vivianite (Mineral)";
+fossilNames[3]= "Bacterial Precipitate (Bacteria Poop)";
+fossilNames[4]= "Quartz (Mineral)";
+
+
+fossilDescription[0] = "These are rocks that form by small sand and clay grains cementing together over time. Because of this they have a rough and grainy surface texture. The can be any random shape and usually are not symmetrical. Concretions are more common than fossils at the Edelman Fossil Park.";
+fossilDescription[1] = "The element iron precipitates from the ground water to form these red-orange, rusty colored rocks commonly called \"Bog Iron\". The orange color forms as a result of oxidation - the same process that causes rust to form on a car.";
+fossilDescription[2] = "This is an iron phosphate mineral and often blue and glassy when first found. But this mineral commonly reacts with the oxygen in the air (a process called 'oxidation'; the same process by which a car rusts) to turn white and crusty.";
+fossilDescription[3] = "Though not technically bacteria poop, this rock is a mineral precipitate that forms from the waste of the bacteria living in the ground water at Edelman Fossil Park. It is originally tan in color and looks like a sea sponge but is hard. It can be coated with an iron precipitate that is orange in color.";
+fossilDescription[4] = "This mineral is clear in color when pure but often picks up trace elements that make it any color. Quartz found at Edelman Fossil Park is often white, yellow, orange, or pink but other colors can be found. The quartz preserved at this site did not form in New Jersey. Instead it was picked up by the glaciers north of here during the last Ice Age and was deposited by the melt water of the receding glaciers at the top of the quarry. It then fell down to the quarry floor where guests can collect it.";
+
+
+fossilImage[0] = concretions.png;
+fossilImage[1] = combinediron.png;
+fossilImage[2] = vivianite.png;
+fossilImage[3] = bacteriapoop.png;
+fossilImage[4] = quartz.png;
